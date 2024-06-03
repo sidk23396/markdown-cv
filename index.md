@@ -5,7 +5,6 @@
 experience.
 - Self-motivated, adaptable with an eye for detail in all undertaken tasks.
 - Proven ability to identify needs and provide valuable solutions.
-Standing on the shoulders of giants
 
 ## Employment History
 `Jul 2023 - Present` Full Stack Developer, Bank of America
