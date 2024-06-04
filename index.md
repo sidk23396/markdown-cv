@@ -1,13 +1,13 @@
 # Siddhant Kumar
 
 ## Profile
-- A passionate software engineer delivering high-quality software and tests with 4+ years of industry
+- A passionate software engineer delivering high-quality software and tests with 5+ years of industry
 experience.
 - Self-motivated, adaptable with an eye for detail in all undertaken tasks.
 - Proven ability to identify needs and provide valuable solutions.
 
 ## Employment History
-`Jul 2023 - Present` Full Stack Developer, Bank of America
+`Jul 2023 - Present` Full-Stack Developer, Bank of America
 - Worked on a full-stack reporting tool used in the risk and finance area
 - Worked with MongoDB and MS SQL to setup the DB side of things
 - Worked with AngularJS to build new pages in the application based on customer requirements
