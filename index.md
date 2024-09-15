@@ -8,11 +8,13 @@ experience.
 
 ## Employment History
 `Jul 2023 - Present` Full-Stack Developer, Bank of America
-- Worked on a full-stack reporting tool used in the risk and finance area
-- Worked with MongoDB and MS SQL to setup the DB side of things
-- Worked with AngularJS to build new pages in the application based on customer requirements
-- Contributed to the python services to serve the screens and enhance UX
- 
+##### Technologies: Python FastAPI, Angular, GraphQL, MSSQL, MongoDB, OpenShift, SQLAlchemy, Git, JIRA
+- Develop and maintain a comprehensive reporting tool that provides critical insights into financial models.
+- Work on Jira tasks to design and implement GraphQL queries and mutations to meet dynamic business requirements.
+- Build and optimize user-friendly frontend components using Angular, ensuring seamless interaction and visualization of data.
+- Create and maintain multiple back-end APIs, delivering high-performance data handling and integration.
+- Perform database management and optimization taasks with Microsoft SQL and MongoDB, ensuring efficient data retrieval and storage.
+- Colaborate with cross-functional teams to translate business needs into technical solutions, delivering end-to-end feature implementation across the stack.
 
 `Nov 2021 — Jul 2023` Software Engineer - Java, Ericsson
 - Built a full-stack cloud-native application capable of executing automated processes, using JBoss,
