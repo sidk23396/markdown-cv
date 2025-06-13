@@ -10,14 +10,14 @@ Standing on the shoulders of giants
 ## Employment History
 `Jul 2023 - Present` Full Stack Developer, Bank of America
 ##### Technologies: Python FastAPI, Angular, GraphQL, MSSQL, MongoDB, OpenShift, SQLAlchemy, Git, JIRA
-- Develop and maintain a comprehensive reporting tool that provides critical insights into financial models.
-- Work on Jira tasks to design and implement GraphQL queries and mutations to meet dynamic business requirements.
-- Optimzied speed and memory usage of data grids by 80%.
-- Build and optimize user-friendly frontend components using Angular, ensuring seamless interaction and visualization of data.
-- Create and maintain multiple back-end APIs, delivering high-performance data handling and integration.
-- Perform database management and optimization taasks with Microsoft SQL and MongoDB, ensuring efficient data retrieval and storage.
-- Colaborate with cross-functional teams to translate business needs into technical solutions, delivering end-to-end feature implementation across the stack.
- 
+- Developed and maintained a comprehensive reporting tool that provides critical insights into financial models.
+- Worked on Jira tasks to design and implement GraphQL queries and mutations to meet dynamic business requirements.
+- Optimzied data workflows to reduce memory usage and increase response speeds by 80%, making endpoints more robust.
+- Built and optimized user-friendly frontend components using Angular, ensuring seamless interaction and visualization of data.
+- Created and maintained multiple back-end APIs, delivering high-performance data handling and integration.
+- Performed database management and optimization tasks with Microsoft SQL and MongoDB, ensuring efficient data retrieval and storage.
+- Colaborated within cross-functional teams to translate business needs into technical solutions, delivering end-to-end feature implementation across the stack.
+
 
 `Nov 2021 — Jul 2023` Software Engineer - Java, Ericsson
 - Built a full-stack cloud-native application capable of executing automated processes, using JBoss,
