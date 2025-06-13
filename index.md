@@ -12,6 +12,7 @@ Standing on the shoulders of giants
 ##### Technologies: Python FastAPI, Angular, GraphQL, MSSQL, MongoDB, OpenShift, SQLAlchemy, Git, JIRA
 - Develop and maintain a comprehensive reporting tool that provides critical insights into financial models.
 - Work on Jira tasks to design and implement GraphQL queries and mutations to meet dynamic business requirements.
+- Optimzied speed and memory usage of data grids by 80%.
 - Build and optimize user-friendly frontend components using Angular, ensuring seamless interaction and visualization of data.
 - Create and maintain multiple back-end APIs, delivering high-performance data handling and integration.
 - Perform database management and optimization taasks with Microsoft SQL and MongoDB, ensuring efficient data retrieval and storage.
