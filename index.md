@@ -1,93 +1,71 @@
 # Siddhant Kumar
 
-## Profile
-- A passionate software engineer delivering high-quality software and tests with 4+ years of industry
-experience.
-- Self-motivated, adaptable with an eye for detail in all undertaken tasks.
-- Proven ability to identify needs and provide valuable solutions.
-Standing on the shoulders of giants
+## Professional Summary
+
+Software engineer with 5+ years of hands-on Python development experience building server-side systems, REST/GraphQL APIs, and production-quality data pipelines within regulated financial services and telecom environments. Currently developing and maintaining a Python (FastAPI) reporting platform at Bank of America that delivers critical insights into financial models, backed by SQLAlchemy, MSSQL, and MongoDB. Comfortable across the full software development lifecycle in agile teams — from requirements and design through CI/CD deployment — with a strong track record of self-managing delivery, driving process improvement, and collaborating closely with cross-functional stakeholders including business and quantitative teams. Full-stack breadth (Angular, TypeScript) complements deep back-end Python experience.
+
+## Technical Skills
+
+- **Languages:** Python, TypeScript, JavaScript, Java
+- **Python Frameworks/Tools:** FastAPI, SQLAlchemy, PyTest, Behave (BDD)
+- **APIs & Data:** GraphQL, REST, MSSQL, MongoDB, data pipeline design & optimization
+- **Frontend:** Angular
+- **Infrastructure & CI/CD:** OpenShift, Kubernetes, Docker, Jenkins, Spinnaker, Git
+- **Practices:** Agile/Scrum, full SDLC, automated testing, distributed systems, production support & deployment
 
 ## Employment History
-`Jul 2023 - Present` Full Stack Developer, Bank of America
-##### Technologies: Python FastAPI, Angular, GraphQL, MSSQL, MongoDB, OpenShift, SQLAlchemy, Git, JIRA
-- Developed and maintained a comprehensive reporting tool that provides critical insights into financial models.
-- Worked on Jira tasks to design and implement GraphQL queries and mutations to meet dynamic business requirements.
-- Optimzied data workflows to reduce memory usage and increase response speeds by 80%, making endpoints more robust.
-- Built and optimized user-friendly frontend components using Angular, ensuring seamless interaction and visualization of data.
-- Created and maintained multiple back-end APIs, delivering high-performance data handling and integration.
-- Performed database management and optimization tasks with Microsoft SQL and MongoDB, ensuring efficient data retrieval and storage.
-- Colaborated within cross-functional teams to translate business needs into technical solutions, delivering end-to-end feature implementation across the stack.
 
+**Jul 2023 – Present — Full Stack Developer, Bank of America**
+*Python (FastAPI), Angular, GraphQL, MSSQL, MongoDB, OpenShift, SQLAlchemy, Git, JIRA*
 
-`Nov 2021 — Jul 2023` Software Engineer - Java, Ericsson
-- Built a full-stack cloud-native application capable of executing automated processes, using JBoss,
-Camunda, JS and Kubernetes, to enable automation in 5G networks.
-- Led the design of backup and restore solution for the application.
-- Delivered an innovative solution to package example processes for customers to use, further enhancing our
-SDK tools and documentation.
-- Setup CI/CD pipelines to enable E2E testing of the application with quick feedback loops, covering all
-aspects of testing and reducing the time by 30%.
-- Took on the responsibility of CI/CD strategy and test lead in the team.
-- Responsible for creating test plans for upcoming features and driving improvements in testing, bringing
-code coverage up to 90%.
-- Presented and participated in KT sessions through demos and presentations.
+- Develop and maintain a Python-based reporting platform that provides critical insights into financial models, working directly with business and quant-adjacent stakeholders to translate requirements into technical solutions.
+- Design and implement GraphQL queries and mutations against dynamic, evolving business requirements.
+- Optimized speed and memory usage of core data grids by 80%, improving responsiveness for high-volume data analysis.
+- Build and maintain multiple back-end Python APIs, delivering high-performance data handling and integration.
+- Own database management and optimization across Microsoft SQL and MongoDB, ensuring efficient, production-quality data retrieval and storage.
+- Build user-friendly Angular frontend components for seamless interaction with and visualization of underlying data — full-stack ownership from database to UI.
+- Collaborate with cross-functional teams to deliver end-to-end feature implementation across the stack in an agile environment.
 
-`Sep 2018 — Nov 2021` Softwar Engineer - Python, Ericsson Athlone
-- Built a microservice to run load tests as a service on Ericsson's suite of products using k6.
-- Designed and delivered a REST application for customers to execute acceptance tests for Ericsson’s suite
-of products. This entailed creating a back-end system to manage execution of tests, reporting of results and
-creating a PyTest automation framework for the test cases.
-- Implemented CI/CD way of working to automate creation of Jenkins jobs via groovy scripts and create
-E2E test pipelines.
-- Drove improvements to enable code re-use by building a python library to interact with Ericsson’s suite
-of products.
-- Documented design rules and guidelines for external contributors.
-- Delivered E2E Spinnaker pipelines using Jenkins jobs which took care of the entire lifecycle of our
-automation from deployment, testing and reporting results. This resulted in quicker feedback, saving time
-and costs to the department.
-- Developed and maintained a PyTest automation framework for testing operational & load capabilities of
-the products.
-- Worked with OpenStack and Ericsson software products to orchestrate 5G nodes.
-- Maintained a Python automation code base for load tests which used BDD approach with
-Behave-Cucumber.
-- Appointed as Scrum Master of the team for short durations.
+**Nov 2021 – Jul 2023 — Software Engineer, Ericsson**
+*JBoss, Camunda, Kubernetes, JavaScript*
 
-`May 2016 — Dec 2016` Operations Engineer, Microsemi Ennis
-- Created software bundles for automating the report generation process using NI LabVIEW and integrated
-with SQL to upload the information to a database (Time taken to generate and finalize reports went down
-from about 6-8 hours to about 8 minutes).
-- Used LabVIEW to control a hardware setup (a pulser and an oscilloscope) to automate the testing of
-diodes.
-- Developed a search engine for procedure documents and where to locate them on the floor.
-- Helped the supervisor set up a laser marking system.
-- Maintained a Laser Marking Lookup database and MS Excel macro for the same.
+- Built a full-stack, cloud-native application executing automated processes to enable automation in 5G networks — full software development lifecycle ownership from design through production deployment.
+- Led the design of a backup and restore solution for the application.
+- Delivered a solution to package example processes for customers, enhancing the SDK toolset and documentation.
+- Set up CI/CD pipelines to enable end-to-end automated testing with fast feedback loops, reducing testing time by 30%.
+- Owned CI/CD strategy and served as test lead for the team, self-managing priorities across releases.
+- Created test plans for upcoming features and drove testing improvements, raising code coverage to 90%.
+- Presented in knowledge-transfer sessions through demos and technical presentations.
+
+**Sep 2018 – Nov 2021 — Software Engineer, Python, Ericsson Athlone**
+*Python, PyTest, Behave-Cucumber, Jenkins, Groovy, OpenStack, k6*
+
+- Built a Python microservice to run load tests as a service across Ericsson's product suite using k6, supporting server-side performance validation at scale.
+- Designed and delivered a REST application enabling customers to execute acceptance tests, including a back-end system to manage test execution, results reporting, and a PyTest automation framework.
+- Implemented CI/CD workflows, automating Jenkins job creation via Groovy scripts and building end-to-end test pipelines.
+- Built a reusable Python library to interact with Ericsson's product suite, improving code re-use across teams.
+- Delivered end-to-end Spinnaker/Jenkins pipelines covering deployment, testing, and results reporting — reducing feedback time and departmental costs.
+- Developed and maintained a PyTest automation framework for testing operational and load capabilities of distributed products.
+- Worked with OpenStack and Ericsson software to orchestrate distributed 5G nodes.
+- Maintained a Python automation codebase for load testing using a BDD approach with Behave-Cucumber.
+- Appointed Scrum Master for short durations, reinforcing agile process ownership.
+
+**May 2016 – Dec 2016 — Operations Engineer, Microsemi, Ennis**
+
+- Built software using NI LabVIEW, integrated with SQL, to automate report generation — cutting report turnaround from 6–8 hours to approximately 8 minutes.
+- Used LabVIEW to control hardware (pulser and oscilloscope) to automate diode testing.
+- Developed a search tool for locating procedure documents on the production floor.
 - Documented procedures for the software bundles developed.
-
 
 ## Education
 
-`Sep 2014 — May 2018` B.Eng in Electronic & Computer Engineering, __University of Limerick__
-### Graduated with 1.1 Honours Degree; QCA: 3.66
-- __Key Topics__: Software Engineering, Computer Networks, Operating Systems, Artificial
-Intelligence, Machine Vision, Micro-controllers, Control, Active Circuit Design, Telecommunications,
-Application-Specific Integrated Circuits (ASICS), Semiconductors
-
+**B.Eng in Electronic & Computer Engineering, University of Limerick**
+Sep 2014 – May 2018
+Graduated with 1.1 Honours; QCA: 3.66
+Key topics: Software Engineering, Computer Networks, Operating Systems, Artificial Intelligence, Machine Vision, Microcontrollers, Control, Active Circuit Design, Telecommunications, ASICs, Semiconductors
 
 ## Awards
 
-`Mar 2019 — Jul 2023` Reward & Recongnition Ericsson
-- Received 3 R&R awards for my contribution to the departments
-
-`Sep 2014 — May 2018` University of Limerick Limerick
-- Received 50% conditional scholarship from the University of Limerick for 4 years
-- Received 5 President’s Letter for Academic Excellence from the University of Limerick.
-
-`Jun 2008 — Mar 2014` Secondary school New Delhi, India
-- 2 Scholastic Excellence Awards in school for Academics
-
-
-<!-- ### Footer
-
-Last updated: June 2024 -->
-
-
+- **Reward & Recognition Award, Ericsson** (Mar 2019 – Jul 2023) — Received 3 R&R awards for contributions to the department.
+- **University of Limerick** (Sep 2014 – May 2018) — 50% conditional scholarship for 4 years; received 5 President's Letters for Academic Excellence.
+- **Secondary School, New Delhi, India** (Jun 2008 – Mar 2014) — 2 Scholastic Excellence Awards for Academics.
