@@ -2,7 +2,11 @@
 
 ## Professional Summary
 
-Software engineer with 5+ years of hands-on Python development experience building server-side systems, REST/GraphQL APIs, and production-quality data pipelines within regulated financial services and telecom environments. Currently developing and maintaining a Python (FastAPI) reporting platform at Bank of America that delivers critical insights into financial models, backed by SQLAlchemy, MSSQL, and MongoDB. Comfortable across the full software development lifecycle in agile teams — from requirements and design through CI/CD deployment — with a strong track record of self-managing delivery, driving process improvement, and collaborating closely with cross-functional stakeholders including business and quantitative teams. Full-stack breadth (Angular, TypeScript) complements deep back-end Python experience.
+- A passionate full-software engineer delivering high-quality software and tests with 7+ years of industry experience.
+- Hands-on Python development experience building server-side systems, REST/GraphQL APIs, and production-quality applications and pipelines within regulated financial services and telecom environments.
+- Self-motivated, adaptable with an eye for detail in all undertaken tasks.
+- Proven ability to identify needs and provide valuable solutions.
+
 
 ## Technical Skills
 
@@ -18,7 +22,7 @@ Software engineer with 5+ years of hands-on Python development experience buildi
 **Jul 2023 – Present — Full Stack Developer, Bank of America**
 *Python (FastAPI), Angular, GraphQL, MSSQL, MongoDB, OpenShift, SQLAlchemy, Git, JIRA*
 
-- Develop and maintain a Python-based reporting platform that provides critical insights into financial models, working directly with business and quant-adjacent stakeholders to translate requirements into technical solutions.
+- Develop and maintain a Python-based reporting platform that provides critical insights into financial models, working directly with business analysts to translate requirements into technical solutions.
 - Design and implement GraphQL queries and mutations against dynamic, evolving business requirements.
 - Optimized speed and memory usage of core data grids by 80%, improving responsiveness for high-volume data analysis.
 - Build and maintain multiple back-end Python APIs, delivering high-performance data handling and integration.
